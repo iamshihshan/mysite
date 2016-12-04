@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div>
-<img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-0/p206x206/10606610_10206043492430874_3061826101315022785_n.jpg?oh=5d3c7f579ce8b363db76ce95ecef9ae8&oe=58FA5DFF" alt=avatar
+<img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-0/p206x206/10606610_10206043492430874_3061826101315022785_n.jpg?oh=5d3c7f579ce8b363db76ce95ecef9ae8&oe=58FA5DFF" alt="avatar"
     style=
     "border-radius: 50%;
     border: 5px solid #000;
